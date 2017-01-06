@@ -1,0 +1,17 @@
+{
+  "name": "05-wjs",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "caocaolin <1158165621@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
